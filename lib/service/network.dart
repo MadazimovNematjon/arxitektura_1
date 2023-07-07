@@ -1,7 +1,7 @@
 
 import 'dart:convert';
 import 'package:http/http.dart';
-import '../pages/post.dart';
+import '../model/post.dart';
 
 class Network {
   static String BASE = "jsonplaceholder.typicode.com";
